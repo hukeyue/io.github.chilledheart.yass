@@ -32,7 +32,10 @@ modules:
       - -DGUI=on
       - -DCLI=off
       - -DSERVER=off
+      - -DBUILD_SHARED_LIBS=on
+      - -DUSE_DEBUG_FISSION=off
+      - -DUSE_COMPRESS_DEBUG_SECTIONS=off
     sources:
       - type: archive
-        url: https://github.com/hukeyue/yass/releases/download/1.20.5/yass-1.20.5.tar.zst
-        sha256: 4aa5bd63b9d21e2f02c35c8097ba4ee28bf0c2bb5c33a66f15fec72792dc75b6
+        url: https://github.com/hukeyue/yass/releases/download/1.22.11/yass-1.22.11.tar.zst
+        sha256: 2d197fc5fe289dd7261942b5c36517fe464ca3cdf18f4d71b437a898eefd7d5e
