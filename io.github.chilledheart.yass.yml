@@ -37,5 +37,5 @@ modules:
       - -DUSE_COMPRESS_DEBUG_SECTIONS=off
     sources:
       - type: archive
-        url: https://github.com/hukeyue/yass/releases/download/1.22.11/yass-1.22.11.tar.zst
-        sha256: 2d197fc5fe289dd7261942b5c36517fe464ca3cdf18f4d71b437a898eefd7d5e
+        url: https://github.com/hukeyue/yass/releases/download/1.24.3/yass-1.24.3.tar.zst
+        sha256: c7289c9074aa8e65dc1f40d96c8f3fd09da8affa21ee17cba030f6dbdff6c0e0
