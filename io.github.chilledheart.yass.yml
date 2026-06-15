@@ -41,4 +41,3 @@ modules:
         sha256: 43fd1af631eb67f5edebee89a7085ceacdaa2127076233eb69a3a701e5615d29
       - type: patch
         path: gcc16.patch
-        sha256: a546be83afef0d46bef5b4c654f0ee731a491c4ac9643bb3be2506abd1fff05d
